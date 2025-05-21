@@ -1,4 +1,5 @@
-# Awesome Business & Goals Mind Maps
+# [Awesome Business & Goals Mind Maps](https://mindmapai.app/mind-maps/business-and-goals) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+
 Achieve strategic clarity with project management and mind maps AI by aligning business goals with actionable plans. Mind maps AI enables teams to visualize objectives, track progress, and drive focused decision-making for sustainable business growth.
 
 - [10 Things Project Managers Should Know](https://mindmapai.app/mind-map/10-things-project-managers-should-know-2681c515)
